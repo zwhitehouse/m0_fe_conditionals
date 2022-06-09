@@ -9,11 +9,11 @@
 ## Directions
 
 Read the directions and complete all activities in each file, in this order:
-- `comparisons.rb`
-- `decisionMaking.rb`
-- `ifStatements.rb`
-- `codeChallenges/README.md`
-- `selfEvaluation.md`
+- `comparisons`
+- `decisionMaking`
+- `ifStatements`
+- `codeChallenges/README`
+- `selfEvaluation`
 
 Based on what you know about Git workflow, make commits as you see fit.
 
