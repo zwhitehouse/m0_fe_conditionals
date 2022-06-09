@@ -2,7 +2,7 @@
 // the desired result. To check your work, run this
 // file by entering the following command in your Terminal
 // (while navigated to the codeChallenges directory):
-// `node ifStatements.rb`
+// `node ifStatements.js`
 
 // Example: Using the weather variable below, write code that decides 
 // what you should take with you based on the following conditions:
