@@ -65,7 +65,7 @@ console.log(friends > siblings);
 
 var attendees = 9;
 var meals = 8;
-console.log(attendees != meals);
+console.log(attendees !== meals);
 // YOU DO: Explain.
 
 
