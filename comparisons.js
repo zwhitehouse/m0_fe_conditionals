@@ -1,9 +1,5 @@
-// In the exercises below, write your own code where indicated
-// to achieve the desired result.
-
-// One example is already completed. Your task is to complete
-// any remaining prompt.
-
+// In the exercises below, write your own code where indicated to achieve the desired result.
+// One example is already completed. Your task is to complete any remaining prompt.
 // Make sure to run the file in your command line using `node <filename>.js`
 
 
@@ -20,43 +16,21 @@ var numberDogs = 0
 console.log("Is numberTeachers greater than numberStudents?", numberTeachers > numberStudents);
 // this should log: "Is numberTeachers greater than numberStudents?" false
 
-// YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
-// this should log: true
-
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers?
 // this should log: false
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
 
-// YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
-// this should log: true
-
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-
-// YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
-// this should log: true
-
-// YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
-// this should log: true
 
 
 // #-------------------
 // PART 2: Articulating what you are doing
 // #-------------------
 
-// For the following prompts, you will be given a line of code and your task is to type out a Comment,
-// in English, explaining what that line of code is doing, including what the comparison will evaluate to.
-// Be as technically precise as possible, but don't just copy and paste a definition from the readings.
-// Make sure YOU can explain it that way!
-
-console.log(4 < 9);
-// YOU DO: Explain.
-
-var books = 3;
-console.log(4 < books);
-// YOU DO: Explain.
+// For the following prompts, you will be given a line of code and your task is to type out a comment,in English, explaining what that line of code is doing, including what the comparison will evaluate to.
 
 var friends = 6;
 var siblings = 2;
@@ -90,14 +64,9 @@ var age = 1;
 // YOU DO:
 // Determine if the dog loves to play and loves treats
 
-
-// Determine if the dog loves to play and loves the dog park
-
-
+// YOU DO:
 // Determine if the dog loves to play or loves the dog park
 
-
+// YOU DO:
 // Determine if the dog loves to play and is a puppy
-
-// What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// HINT: Use the age variable and assume that a puppy is less than 2 years old
